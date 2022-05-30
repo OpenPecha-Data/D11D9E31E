@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   c5d587cd8ec04f7bbf11a7af8c2a665f:
     parts: {}
+    work_id: N3663
     span:
-    - vol: 47
+    - base: cd4b
       start: 0
       end: 1936
-    work_id: N3663
